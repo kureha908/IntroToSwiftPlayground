@@ -12,3 +12,9 @@ var mySecondVariable = " and look I added two strings together"
 //Let's add two strings together
 var myThirdVariable = myFirstVariable + mySecondVariable
 print(myThirdVariable)
+
+//Assignment #2 Introductiong to True and False
+var appState = false
+
+print(appState)
+//Camparing
